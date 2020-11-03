@@ -1,0 +1,15 @@
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Infrastructure.deps.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Infrastructure.runtimeconfig.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Infrastructure.runtimeconfig.dev.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Infrastructure.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Infrastructure.pdb
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.csprojAssemblyReference.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.AssemblyInfo.cs
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.pdb
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.genruntimeconfig.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\netcoreapp3.1\Assignment.Infrastructure.csproj.CopyComplete

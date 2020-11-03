@@ -1,0 +1,12 @@
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\net5.0\Assignment.Infrastructure.deps.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\net5.0\Assignment.Infrastructure.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.csprojAssemblyReference.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.AssemblyInfo.cs
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\net5.0\Assignment.Infrastructure.runtimeconfig.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\net5.0\Assignment.Infrastructure.runtimeconfig.dev.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.genruntimeconfig.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\bin\Debug\net5.0\Assignment.Infrastructure.pdb
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Infrastructure\obj\Debug\net5.0\Assignment.Infrastructure.pdb

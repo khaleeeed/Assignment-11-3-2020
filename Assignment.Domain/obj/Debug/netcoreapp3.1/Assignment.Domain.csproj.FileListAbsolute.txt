@@ -1,0 +1,8 @@
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\bin\Debug\netcoreapp3.1\Assignment.Domain.deps.json
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\bin\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\bin\Debug\netcoreapp3.1\Assignment.Domain.pdb
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\obj\Debug\netcoreapp3.1\Assignment.Domain.AssemblyInfoInputs.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\obj\Debug\netcoreapp3.1\Assignment.Domain.AssemblyInfo.cs
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\obj\Debug\netcoreapp3.1\Assignment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\obj\Debug\netcoreapp3.1\Assignment.Domain.dll
+C:\Users\kfakhori\source\repos\Assignment\Assignment.Domain\obj\Debug\netcoreapp3.1\Assignment.Domain.pdb

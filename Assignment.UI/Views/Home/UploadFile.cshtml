@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "UploadFile";
+}
+
+<div class="form-group row">
+    <form action="/Home/UploadFile" method="post" enctype="multipart/form-data">
+        <h3 class="col-xs-1">Upload file</h3>
+        <input class="form-control-file col-xs-3" style="margin:10px;padding:7px" type="file" name="file" accept=".xlsx,.csv" required />
+        <input class="btn btn-primary mb-2 col-xs-3" style="margin:10px;padding:7px" type="submit" value="Upload" /><br />
+    </form>
+    <h5>@ViewBag.Message</h5>
+</div>
+
+

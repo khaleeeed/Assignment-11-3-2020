@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="form-group row">
+
+        <form action="/Home/ItemDetail" method="get">
+            <h3 class="col-xs-1">Search item</h3>
+
+            <input class="form-control col-xs-4" style="margin:10px;padding:7px" type="text" name="file123" required />
+
+            <input class="btn btn-primary mb-2 col-xs-3" style="margin:10px;padding:7px" type="submit" value="Search" /><br />
+        </form>
+        <h5>@ViewBag.Message</h5>
+    </div>
